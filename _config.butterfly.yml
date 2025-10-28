@@ -20,12 +20,14 @@ nav:
 
 menu:
    首页: / || fas fa-home
+   归档: /archives/ || fas fa-archive
    标签: /tags/ || fas fa-tags
    分类: /categories/ || fas fa-folder-open
    清单||fas fa-list:
-    音乐: /music/ || fas fa-music
-    电影: /movies/ || fas fa-video
-    书单: /books/ || fas fa-book
+    知行合一: /categories/学习/ || fas fa-book
+    技术分享: /categories/技术/ || fas fa-code
+    生活随笔: /categories/生活/ || fas fa-coffee
+
    关于: /about/ || fas fa-heart
 
 # --------------------------------------
